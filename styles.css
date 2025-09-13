@@ -66,4 +66,4 @@ html,body{ overscroll-behavior-y:none; overflow-x:hidden; }
 
 /* Composer input size so iOS không zoom và không đẩy nút */
 .composer textarea{ font-size:16px; line-height:1.35; }
-#sendBtn{ min-width:100px; }
+#sendBtn{ min-width:52px; }
